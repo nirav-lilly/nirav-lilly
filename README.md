@@ -26,7 +26,7 @@
 <br/>
 
 ### 📊 Github Stats
-![Nirav's Github Stats](https://github-readme-stats.vercel.app/api?username=nirav-lilly&count_private=true&show_icons=true&include_all_commits=true)
+![Nirav's Github Stats](./profile/stats.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav-lilly&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nirav-lilly.nirav-lilly)
